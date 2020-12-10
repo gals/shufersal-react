@@ -1,0 +1,8 @@
+body, html {
+  direction: rtl;
+  text-align: right;
+}
+
+#root {
+  padding: 32px;
+}
